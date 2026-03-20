@@ -3,7 +3,7 @@
 
 🔭 Working on  : Turning ideas into real projects.  
 👯 Open to collaborate on  : Open source & tech ideas.   
-🌱 Learning  : C, DSA & Web Dev.  
+🌱 Learning  : C, Phython, java, DSA & Web Dev.  
 💬 Ask me about  : Programming & problem solving.  
 ⚡ Fun fact  : Ctrl + C & Ctrl + V = life 😄.
 ## 🌐 Socials:
