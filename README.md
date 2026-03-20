@@ -1,4 +1,4 @@
-💫 Hiii, 👋 I'm Alok Kumar.
+💫 Hiii, 👋 I'm Alok Kumar.  
 🚀 Engineering Student | Passionate Developer 
 
 🔭 Working on  : Turning ideas into real projects.  
