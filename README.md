@@ -1,5 +1,9 @@
-💫 Hiii, 👋 I'm Alok Kumar.  
-🚀 Engineering Student | Passionate Developer 
+<h1 align="center">💫 Hiii, 👋 I'm Alok Kumar</h1>
+<h3 align="center">B.Tech CSE Student | Future Software Engineer | Tech Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+profile!;I+build.+I+learn.+I+grow.;Future+Full+Stack+Developer;Consistency+is+my+power+💪&center=true&width=600&height=50">
+</p>
 
 🔭 Working on  : Turning ideas into real projects.  
 👯 Open to collaborate on  : Open source & tech ideas.   
